@@ -11,7 +11,7 @@
 8.  As a registered user, I want to be able to share recommendations via email and facebook with anyone.
 
 
-Assignmnet 2: Domain Modeling bbb
+Assignmnet 2: Domain Modeling
 Find Spreadsheet here:
 https://docs.google.com/spreadsheet/ccc?key=0AhLFFXlb1NxcdHBpLVpMc0F0a2NDY0NNVzZ3WElubWc&usp=sharing
 
