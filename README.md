@@ -1,4 +1,4 @@
-# User Stories for Media Maps
+# User Stories for It Happened Here
 
 1.  As a user, I want to learn about the books, music, and movies that are associated with cities, so that I can learn about the city's culture before or while travelling.
 2.  As a user, I want to learn about the books, music, and movies that are associated with specific neighborhoods in major cities.
@@ -10,4 +10,8 @@
 7.  As a registered user, I want to be able to maintain a portfolio of books, music, and movies that appeal to me most.
 8.  As a registered user, I want to be able to share recommendations via email and facebook with anyone.
 
+
+Assignmnet 2: Domain Modeling
+Find Spreadsheet here:
+https://docs.google.com/spreadsheet/ccc?key=0AhLFFXlb1NxcdHBpLVpMc0F0a2NDY0NNVzZ3WElubWc&usp=sharing
 
